@@ -1,0 +1,33 @@
+{
+    "name": "Matcha",
+    "website": "https://matcha.xyz/",
+    "description": "Gasless Trading is a new feature exclusively available on Matcha that allows users to trade on Ethereum without having to pay any gas fees. As of today, we are launching this feature into open beta,so anyone who wants to now has the ability to try it out!",
+    "explorer": "https://polygonscan.com/address/0x632527567de4977A4C5bf8c20F85f9064285D700",
+    "type": "POLYGON",
+    "symbol": "MTA",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x632527567de4977A4C5bf8c20F85f9064285D700",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Matcha/contracts"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/matchaxyz"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/matchaxyz"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/matchaxyz"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/matchaxyz"
+        }
+    ]
+}
